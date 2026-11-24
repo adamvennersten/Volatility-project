@@ -54,4 +54,4 @@ Python · pandas · NumPy · Matplotlib · yfinance
 
 ## Author
 **Adam** – Computer Science, KTH
-[LinkedIn](https://linkedin.com/in/...) · [GitHub](https://github.com/...)
+[https://www.linkedin.com/in/adam-vennersten-658b14129/) · [GitHub](https://github.com/...)
